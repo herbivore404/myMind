@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/res/img">
+        <file>img/all.png</file>
+        <file>img/back.png</file>
+        <file>img/copy.png</file>
+        <file>img/cut.png</file>
+        <file>img/font.png</file>
+        <file>img/fontback.png</file>
+        <file>img/fontcolor.png</file>
+        <file>img/linefeed.png</file>
+        <file>img/new.png</file>
+        <file>img/open.png</file>
+        <file>img/paste.png</file>
+        <file>img/recall.png</file>
+        <file>img/renew.png</file>
+        <file>img/replace.png</file>
+        <file>img/save.png</file>
+        <file>img/saveas.png</file>
+        <file>img/seek.png</file>
+        <file>img/tool.png</file>
+        <file>img/exit.png</file>
+        <file>img/num.png</file>
+        <file>img/state.png</file>
+        <file>img/about.png</file>
+        <file>img/note.png</file>
+        <file>img/paste2.png</file>
+        <file>img/replace2.png</file>
+        <file>img/save2.png</file>
+        <file>img/replace3.png</file>
+    </qresource>
+</RCC>
